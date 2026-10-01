@@ -1,0 +1,16 @@
+  196  which python3
+  197  pip list
+  198  pip install requests
+  199  pip list
+  200  deactivate
+  201  which python3
+  202  man ls
+  203  ls -h
+  204  ls
+  205  man ls
+  206  ls -h
+  207  man ls
+  208  man man
+  209  cd cod
+  210  history
+  211  python3
