@@ -52,3 +52,8 @@ bd6edaf
 This represents a commit hash, they are used for uniquely identifying an individual commit within one specific project
 
 Question 9
+
+Step 1 add the filename to the tracked files list
+Step 2 commit the filename and use -m to add a comment
+Step 3 check git status
+Step 4 check git log --oneline
